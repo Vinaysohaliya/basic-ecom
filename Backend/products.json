@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "image": "https://plus.unsplash.com/premium_photo-1681412205299-0e65e1be0d4b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZSUyMGNvbW1lcmNlfGVufDB8fDB8fHww",
+        "description": "Description of product 1",
+        "price": 10
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "image": "https://images.unsplash.com/photo-1487700160041-babef9c3cb55?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZSUyMGNvbW1lcmNlfGVufDB8fDB8fHww",
+        "description": "Description of product 2",
+        "price": 20
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "image": "https://images.unsplash.com/photo-1522204523234-8729aa6e3d5f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGUlMjBjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Description of product 3",
+        "price": 15
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "image": "https://images.unsplash.com/photo-1616077167599-cad3639f9cbd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGUlMjBjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Description of product 4",
+        "price": 25
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "image": "https://images.unsplash.com/photo-1555421689-491a97ff2040?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGUlMjBjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Description of product 5",
+        "price": 30
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGUlMjBjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Description of product 6",
+        "price": 12
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "image": "https://plus.unsplash.com/premium_photo-1661342527041-fb42a8d10b9b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGUlMjBjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Description of product 7",
+        "price": 18
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGUlMjBjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+        "description": "Description of product 8",
+        "price": 22
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "image": "https://plus.unsplash.com/premium_photo-1681488350342-19084ba8e224?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZSUyMGNvbW1lcmNlfGVufDB8fDB8fHww",
+        "description": "Description of product 9",
+        "price": 28
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "image": "https://plus.unsplash.com/premium_photo-1661458140307-c9ea805a5f84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZSUyMGNvbW1lcmNlfGVufDB8fDB8fHww",
+        "description": "Description of product 10",
+        "price": 35
+    }
+]
